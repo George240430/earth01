@@ -1,0 +1,2 @@
+resource "aws_instance" "new_ec2" {
+}
